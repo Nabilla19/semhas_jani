@@ -246,7 +246,7 @@ export default function Home() {
               {
                 icon: "🌊",
                 title: "Masa Depan yang Cerah Menantimu",
-                desc: "Gelar A.Md.Gz bukan akhir, ini awal. Dunia gizi dan dietika butuh orang sepertimu yang gigih dan penuh dedikasi.",
+                desc: "Gelar A.Md.Gz bukan akhir, ini awal. Dunia gizi butuh orang sepertimu yang gigih dan penuh dedikasi.",
               },
             ].map((item, i) => (
               <div
