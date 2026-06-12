@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd jani-semhas && npm install && npm run build",
+  "outputDirectory": "jani-semhas/.next",
+  "installCommand": "cd jani-semhas && npm install",
+  "framework": "nextjs"
+}
